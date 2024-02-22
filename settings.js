@@ -1,11 +1,11 @@
 // YTTA
 
 //settings
-global.creator = 'DhaniOfficiall'
+global.creator = 'LordNavzOFC'
 global.listkey = ["apikeynya","turusek"]
 
 //isi agar fitur fitur bisa di gunakan.
-global.lolkey = 'ISI_PUNYA_LOLHUMAN' // Dapatkan di https://api.lolhuman.xyz
+global.lolkey = 'a8e86232771f9bc1826742c1' // Dapatkan di https://api.lolhuman.xyz
 global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
